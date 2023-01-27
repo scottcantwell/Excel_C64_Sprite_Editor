@@ -1,2 +1,2 @@
-# Excel_C64_Sprite_Editor
+# Excel C64 Sprite Editor
 A Commodore 64 Sprite editor using Excel.
